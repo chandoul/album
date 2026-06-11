@@ -1,3 +1,3 @@
 # album
  
-![Alt text](screenshot.png)
+![Alt text](./screenshot.png)
