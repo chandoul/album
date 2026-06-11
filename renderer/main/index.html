@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            http-equiv="Content-Security-Policy"
+            content="script-src 'self'"
+        />
+        <title>Album Viewer</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div id="container">
+            <button id="selectfolder"></button>
+            <button id="return-to-main"></button>
+            <span id="folder"></span>
+            <div id="browser">
+                <div id="browser-body"></div>
+            </div>
+            <div id="selected">
+                <div id="controller">
+                    <button id="prev"></button>
+                    <select id="page-num"></select>
+                    <button id="next"></button>
+                </div>
+
+                <img class="main-page-normal" />
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>
