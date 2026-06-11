@@ -1,3 +1,3 @@
 # album
  
-![Alt text](./screenshot.png)
+![Alt text](https://github.com/chandoul/album/blob/master/Screenshot.png?raw=true)
